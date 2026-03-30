@@ -1,4 +1,3 @@
-(The file `/media/devalex/DATOS1/repositorios/chat-bot/README.md` exists, but is empty)
 # Chat-Bot: AI-Powered Conversational Agent
 
 ## Overview
